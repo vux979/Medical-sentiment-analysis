@@ -15,4 +15,4 @@ colab中修改了数据集创建的代码，更改了内存占用过高的问题
 data文件夹下的`数据集创建.py`已做更改
 
 # 权重
-weight文件夹中包含训练好的权重
+weight文件夹中包含训练好textCNN的权重，如果不训练，在本地下载好bert-base-uncased的权重后读取textCNN权重进行测试即可。
