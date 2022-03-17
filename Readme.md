@@ -16,3 +16,6 @@ data文件夹下的`数据集创建.py`已做更改
 
 # 权重
 weight文件夹中包含训练好textCNN的权重，如果不训练，在本地下载好bert-base-uncased的权重后读取textCNN权重进行测试即可。
+
+# 直接读取模型并测试
+点进`colab_读取模型.ipynb`[colab](https://colab.research.google.com/github/vux979/Medical-sentiment-analysis/blob/main/colab_读取模型.ipynb)运行即可
